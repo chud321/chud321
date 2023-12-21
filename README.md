@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...card cloning and emv softwarevjust got lynux also want to learn how to code
 - 🌱 I’m currently learning ..lynux cc cloning.
 - 💞️ I’m looking to collaborate on ...anything vtht will help me learn
-- 📫 How to reach me
+- 📫 How to reach me rgieske85@gmail.com or https://t.me/C2cykwtd
 <!
 chud321/chud321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
